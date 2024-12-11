@@ -1,3 +1,3 @@
-# c3rb3r
+# c3rb3rus
 
-worlds largest and most versatile signature/behavioural malware scanner
+cerberus: worlds largest and most versatile signature/behavioural malware scanner with ~100000 rules
