@@ -2,4 +2,4 @@
 
 cerberus: worlds largest and most versatile signature/behavioural malware scanner with ~100000 rules
 
-![image](https://github.com/user-attachments/assets/2f6bf792-3a89-4a8c-b047-dfd335e9d6f3)
+> note: the repo contains roughly 100000 rules in yara format for both behavioural and signature-based analysis. the scanner is still a work in progress but will be written in a low-latency high-performance style using rust.
